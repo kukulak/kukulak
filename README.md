@@ -13,7 +13,7 @@ Estoy aprendiendo activamente frameworks y librerías como ReactJs, Django, Node
 
 
 
-### &#x1f4c8; GitHub Stats
+### GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kukulak&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -43,39 +43,77 @@ Estoy aprendiendo activamente frameworks y librerías como ReactJs, Django, Node
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and tools:</h3>
 
 <p align="center">
   
 
     
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-plain.svg" alt="html5" width="30" height="30"/>
+  </a>&nbsp;
   
   
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-plain.svg" alt="css3" width="30" height="30"/>
+  </a>&nbsp;
 
-
- 
-
-
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+  </a>&nbsp;
   
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+  </a>&nbsp;
+ 
+   <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg" alt="ReactJs" width="30" height="30"/>
+  </a>&nbsp;
   
-   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+ <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/django/django-original.svg" alt="Django" width="30" height="30"/>
+  </a>&nbsp;
+ 
+ <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
   </a>
 </p>
 
-<!---->
+
+
+
+
+<h3 align="center" id="social">Contact me</h3>
+
+<p align="center">
+
+<a href="https://twitter.com/KukulakCero">
+  <img alt="KukulakCero | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>&nbsp;
+
+<a href="https://www.linkedin.com/in/christian-valderrama-9a066a19/">
+  <img alt="Valderrama LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>&nbsp;
+
+<!--
+ 
+<a href="https://www.instagram.com/valderramacero/">
+  <img alt="Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+</a>
+
+-->
+
+<a href="https://www.youtube.com/channel/UCrPkqO_d-oMQVU29zAvUlEQ">
+  <img alt="de diseño y codigo" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>&nbsp;
+
+ <!--
+<a href="mailto:kukulak.cero@gmail.com"> :envelope: </a>
+--> 
+</p>
+
+
+
 <!--
 **kukulak/kukulak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
